@@ -207,3 +207,5 @@ TIPS : List of few tips on using Ocean Protocol network
 8.  Test your integration and smart contract in a local network before deploying it to the mainnet.
 9.  Use a secure and private key to protect your assets
 10. Keep yourself updated with the latest development and updates on the Ocean Protocol network.
+
+Thanks !
